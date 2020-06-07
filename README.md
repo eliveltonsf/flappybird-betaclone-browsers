@@ -15,12 +15,7 @@
 
 ![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
 ###### Experience the final result of the game:
-<a href="https://eliveltonsf.github.io/flappy-bird-betaclone/">
-<div style="border:1px solid black; border-radius:50px;width:100px;height:40px; padding-top:15px; padding-left:25px;background:#A5E82E">
- <strong>Play Now</strong>
-</div>
-</a>
-
+  ###### 	:video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappy-bird-betaclone/)
 ## 
  
 
