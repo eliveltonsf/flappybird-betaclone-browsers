@@ -11,8 +11,6 @@
   
   </p>
 
-
-
 ## :man_technologist: Putting my knowledge about HTML, CSS and JavaScript into practice.
 
 ![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
