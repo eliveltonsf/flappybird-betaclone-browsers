@@ -14,8 +14,15 @@
 ## :man_technologist: Putting my knowledge about HTML, CSS and JavaScript into practice.
 
 ![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
+###### Experience the final result of the game:
+<a href="https://eliveltonsf.github.io/flappy-bird-betaclone/">
+<div style="border:1px solid black; border-radius:50px;width:100px;height:40px; padding-top:15px; padding-left:25px;background:#A5E82E">
+ <strong>Play Now</strong>
+</div>
+</a>
 
-<br />
+## 
+ 
 
 ## :rocket: Stack 
 - ###### [HTML5](https://www.w3schools.com/html/) - Basic, Used to create the structure on the game.
@@ -32,7 +39,7 @@
 ###### Showing how fascinating the whole development of the game is, whether creating a simple page or something more complex like this project, instigating to want to know and learn more about this wonderful Stack.
 
  <br />
- 
+
 ## 	:computer: Author
 
 ######  **Elivelton Ferreira**
