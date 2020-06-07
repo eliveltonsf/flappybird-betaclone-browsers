@@ -15,7 +15,7 @@
 
 ## :man_technologist: Putting my knowledge about HTML, CSS and JavaScript into practice.
 
-<div style="margin-left:20%;width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p></p>
+![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
 
 
 
