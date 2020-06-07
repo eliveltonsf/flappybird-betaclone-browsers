@@ -1,0 +1,55 @@
+#modal {
+    background-color: #0e0a14ef;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;  
+    top: 0;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 400ms;
+}
+
+#modal.hide{
+    display: none;
+}
+
+#modal .content {
+    color: white;
+    width: 400px;
+}
+
+[sf-gameOver] {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-over {
+    flex: 1;
+    left: calc(50% - 150px);
+    font-size: 70px;
+    font-family: Pixel;
+    margin: 20px 0;
+}
+
+
+
+[sf-gameOver] button {
+    background: none;
+    width: 100%;    
+    color: white;
+    font-size: 34px;
+    border: solid 2px white;
+    border-radius: 50px;
+    padding: 16px;
+}
+
+[sf-gameOver] button:hover {
+ background-color: rgba(0, 191, 255, 0.425);
+}
+
+[sf-gameOver] button:focus{
+    outline: none;
+} 
