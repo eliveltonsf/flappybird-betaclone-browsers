@@ -27,10 +27,12 @@
 ###### Developing a copy of the game [Flappy Bird](https://pt.wikipedia.org/wiki/Flappy_Bird), in order to put into practice the knowledge acquired in the presented stack, focusing on the manipulation of the DOM with JavaScript.
 
 <br />
+
 ## 	:globe_with_meridians: Contributing
 ###### Showing how fascinating the whole development of the game is, whether creating a simple page or something more complex like this project, instigating to want to know and learn more about this wonderful Stack.
 
  <br />
+ 
 ## 	:computer: Author
 
 ######  **Elivelton Ferreira**
