@@ -14,8 +14,8 @@
 ## :man_technologist: Putting my knowledge about HTML, CSS and JavaScript into practice.
 
 ![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
-###### Experience the final result of the game:
-  ###### 	:video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappy-bird-betaclone/)
+### Experience the final result of the game:
+### :video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappy-bird-betaclone/)
 ## 
 <br/>
  
