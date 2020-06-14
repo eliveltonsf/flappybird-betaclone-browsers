@@ -15,8 +15,10 @@
 
 ![bird](https://media.giphy.com/media/QsOrIBVjHDPFGySnmy/giphy.gif "bird!")
 ### Experience the final result of the game:
+
+<strong>Note:</strong> the game runs only on the web in any browser
+
 ### :video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappy-bird-betaclone/)
-## 
 <br/>
  
 
