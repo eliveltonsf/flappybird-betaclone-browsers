@@ -18,7 +18,7 @@
 
 <strong>Note:</strong> the game runs only on the web in any browser
 
-### :video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappy-bird-betaclone/)
+### :video_game:  [Play now flappy bird @betaclone](https://eliveltonsf.github.io/flappybird-betaclone-browsers/)
 <br/>
  
 
